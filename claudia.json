@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "recipe-saver-executor",
+    "name": "recipe-saver",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "y3n94h2433",
+    "module": "index"
+  }
+}
